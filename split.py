@@ -3,7 +3,7 @@ import streamlit as st
 from sklearn.pipeline import make_pipeline
 from sklearn.model_selection import train_test_split
 
-# Streamlit page configuration
+# Streamlit page confi
 st.set_page_config(page_title="Splite data")
 
 # File uploader
